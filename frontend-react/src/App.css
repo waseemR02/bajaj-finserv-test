@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.form {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.input {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.submit-button {
+  padding: 10px 20px;
+}
+
+.response {
+  text-align: left;
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  overflow-x: auto;
+}
